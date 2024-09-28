@@ -1,6 +1,7 @@
 # public_test
 public test
-<a ref='New Text Document'>ref</a>
+<a href='index.html'>ref</a>
+<a href='https://sallers2.github.io/public_test/index.html'>ref2</a>
 
 [Link Text](../New%20Text%20Document.html)
 
